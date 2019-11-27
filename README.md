@@ -1,4 +1,4 @@
-"# ai-summit" 
+### 실습 파일 다운로드
 
 1. https://colab.research.google.com/
 
@@ -6,7 +6,7 @@
 
 3. 파일 > 새 Python3 노트
 
-4.!git clone https://github.com/Raonbit/ai-summit.git   
+4. !git clone https://github.com/Raonbit/ai-summit.git   
 
 4. ctrl + Enter
 
